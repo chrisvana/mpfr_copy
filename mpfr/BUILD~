@@ -1,0 +1,6 @@
+[
+{ "autoconf": {
+    "name": "mpfr",
+    "configure_args": [ "--disable-assembly" ]
+} }
+]
